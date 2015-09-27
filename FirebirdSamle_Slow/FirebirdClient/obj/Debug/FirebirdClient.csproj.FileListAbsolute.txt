@@ -1,0 +1,10 @@
+D:\Dev\local\Firebird20150927\FirebirdClient\bin\Debug\FirebirdClient.exe.config
+D:\tmp\FirebirdClient\FirebirdClient.exe.config
+D:\tmp\FirebirdClient\FirebirdClient.exe
+D:\tmp\FirebirdClient\FirebirdClient.pdb
+D:\Dev\local\Firebird20150927\FirebirdClient\obj\Debug\FirebirdClient.exe
+D:\Dev\local\Firebird20150927\FirebirdClient\obj\Debug\FirebirdClient.pdb
+D:\Dev\local\Firebird20150927\FirebirdClient\obj\Debug\FirebirdClient.csprojResolveAssemblyReference.cache
+D:\Dev\github\Sample\FirebirdSamle_Slow\FirebirdClient\obj\Debug\FirebirdClient.csprojResolveAssemblyReference.cache
+D:\Dev\github\Sample\FirebirdSamle_Slow\FirebirdClient\obj\Debug\FirebirdClient.exe
+D:\Dev\github\Sample\FirebirdSamle_Slow\FirebirdClient\obj\Debug\FirebirdClient.pdb

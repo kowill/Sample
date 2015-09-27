@@ -1,0 +1,7 @@
+D:\tmp\FirebirdClient2\FirebirdClient2.exe.config
+D:\tmp\FirebirdClient2\FirebirdClient2.exe
+D:\tmp\FirebirdClient2\FirebirdClient2.pdb
+D:\Dev\local\Firebird20150927\FirebirdClient2\obj\Debug\FirebirdClient2.exe
+D:\Dev\local\Firebird20150927\FirebirdClient2\obj\Debug\FirebirdClient2.pdb
+D:\Dev\github\Sample\FirebirdSamle_Slow\FirebirdClient2\obj\Debug\FirebirdClient2.exe
+D:\Dev\github\Sample\FirebirdSamle_Slow\FirebirdClient2\obj\Debug\FirebirdClient2.pdb
