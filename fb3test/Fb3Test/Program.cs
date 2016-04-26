@@ -18,7 +18,7 @@ namespace Fb3Test
             builder.UserID = "SYSDBA";
             builder.Password = "masterkey";
             builder.ServerType = FbServerType.Embedded;
-            builder.ClientLibrary = "dll\\fb3\\fbclient";
+            builder.ClientLibrary = @"dll\fb3\fbclient";
             builder.Pooling = false;
 
             Console.WriteLine("--fb3--------------------");
@@ -32,7 +32,7 @@ namespace Fb3Test
             CreateAndExecuteFb3(builder);
 
             builder.Database = @"D:\DB\TESTFB2.FDB";
-            builder.ClientLibrary = "dll\\fb25\\fbembed";
+            builder.ClientLibrary = @"dll\fb25\fbembed";
 
             Console.WriteLine("--fb25-------------------");
             if (!File.Exists(builder.Database))
