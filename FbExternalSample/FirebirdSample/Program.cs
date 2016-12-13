@@ -28,7 +28,7 @@ namespace FirebirdSample
             }
 
             //create procesure
-            var dllPath = new Uri(new Uri(Assembly.GetEntryAssembly().Location), @"../../../FirebirdSample/Fb/plugins/FbExternalSample.dll").LocalPath;
+            var dllPath = new Uri(new Uri(Assembly.GetEntryAssembly().Location), @"../../Fb/plugins/FbExternalSample.dll").LocalPath;
             var createSqls = new FbHelper().GetCreateStatements(dllPath);
             using (var con = new FbConnection(builder.ConnectionString))
             using (var command = con.CreateCommand())
